@@ -6,7 +6,7 @@
 
 let horasTrabajo = 0;
 
-let pagoPorHora = 50; //50 soles por hora
+let pagoPorHora = 20; //50 soles por hora
 
 //para la estructura repetitiva, necesitamos el día
 for(let dia = 1; dia <= 6; dia++){
